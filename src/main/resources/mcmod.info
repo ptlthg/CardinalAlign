@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cardinalalign",
+  "name": "Cardinal Align",
+  "description": "If within 0.2 you can align to the nearest 90 degrees",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/ptlthg/CardinalAlign",
+  "updateUrl": "https://github.com/ptlthg/CardinalAlign/releases",
+  "authorList": ["Kaeso"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
