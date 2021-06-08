@@ -1,3 +1,13 @@
+# CardinalAlign
+
+A super basic Minecraft mod for 1.8.9 that adds a keybind that snaps the player to the nearest 90 degress axis when within 0.2 of it already.
+
+# Use at your own risk
+
+This mod may be considered cheating by any Minecraft server, I am not nor will ever be responsible for any punishment you may befall. I don't even use this myself after I tested it.
+
+
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
