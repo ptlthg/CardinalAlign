@@ -1,10 +1,10 @@
 # CardinalAlign
 
-A super basic Minecraft mod for 1.8.9 that adds a keybind that snaps the player to the nearest 90 degress axis when within 0.2 of it already.
+A super basic **singleplayer** Minecraft mod for 1.8.9 that adds a keybind that snaps the player to the nearest 90 degress axis when within 0.2 of it already. This was made while testing farm designs for (Hypixel SkyBlock) in creative mode on singleplayer worlds, not for use in servers.
 
 # Use at your own risk
 
-This mod may be considered cheating by any Minecraft server, I am not nor will ever be responsible for any punishment you may befall. I don't even use this myself after I tested it.
+This mod may be considered cheating by any Minecraft server, I am not nor will ever be responsible for any punishment you may befall. While it will function in a server, it makes no attempt at hiding the snap rotation and you may get banned.
 
 
 
