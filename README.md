@@ -6,6 +6,8 @@ A super basic **singleplayer** Minecraft mod for 1.8.9 that adds a keybind that 
 
 This mod may be considered cheating by any Minecraft server, I am not nor will ever be responsible for any punishment you may befall. While it will function in a server, it makes no attempt at hiding the snap rotation and you may get banned.
 
+### Again, this is for singleplayer. Not for use on servers.
+
 
 
 -------------------------------------------
